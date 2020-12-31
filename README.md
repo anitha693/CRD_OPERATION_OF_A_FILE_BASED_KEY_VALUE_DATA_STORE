@@ -28,4 +28,4 @@ The data store will also support the following non-functional requirements.
 
 4. The client will bear as little memory costs as possible to use this data store, while deriving maximum performance with respect to response times for accessing the data store.
 
-Go through the accessing.py file and examples.pdf file that are attached here with in order to understand clearly how the code works and how to perform operations in this.
+Go through the accessing.py file and sample_example.pdf file that are attached here with in order to understand clearly how the code works and how to perform operations in this.
